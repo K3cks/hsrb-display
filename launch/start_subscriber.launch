@@ -1,0 +1,5 @@
+<launch>
+
+    <param name="hsrb_display" command="$(find hsrb-display)/hsrb-display/start_subscriber.py"/>
+
+</launch>
